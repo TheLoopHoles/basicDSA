@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * AreverseNumber
+ * in this program we will be reversing the input number
  */
 public class AreverseNumber {
 
