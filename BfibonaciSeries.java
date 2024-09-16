@@ -1,4 +1,7 @@
 import java.util.Scanner;
+/*
+ * the following code gives you the input number of fibonacci series.
+ */
 
 public class BfibonaciSeries {
 
